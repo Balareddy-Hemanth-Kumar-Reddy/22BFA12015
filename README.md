@@ -33,6 +33,5 @@ Optional: shortcode, validity
 
 GET /<shortcode> – redirects to original URL
 
-Note:
-Data is stored in memory (lost on restart)
+
 
